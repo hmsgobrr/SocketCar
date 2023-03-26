@@ -2,8 +2,8 @@
 #include <ESPAsyncTCP.h>
 #include <ESPAsyncWebServer.h>
 
-#define WIFI_SSID "Adora_X"
-#define WIFI_PASS "b10nomor11"
+#define WIFI_SSID "<your WiFi name>"
+#define WIFI_PASS "<your WiFi password>"
 
 #define IN1 15
 #define IN2 13
